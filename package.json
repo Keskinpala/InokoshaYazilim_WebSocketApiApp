@@ -1,13 +1,13 @@
 {
   "name": "inowebsocket",
   "version": "1.0.0",
-  "description": "",
+  "description": "inowebsocket is a websocket server for INOKOSHA YAZILIM",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Atakan ÇELİKELLİ / INOKOSHA YAZILIM / Turkey",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
